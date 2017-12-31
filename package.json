@@ -1,0 +1,20 @@
+{
+  "name": "vst-guide-api",
+  "version": "0.0.1",
+  "description": "A simple library for accessing information from the VST Guide API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "bmcclure/node-vst-guide-api",
+  "author": "Ben McClure <ben.mcclure@gmail.com> (http://benmcclure.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmcclure/node-vst-guide-api/issues"
+  },
+  "homepage": "https://github.com/bmcclure/node-vst-guide-api#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bluebird": "^3.5.1"
+  }
+}
